@@ -3,7 +3,6 @@
 // Zadanie 5.2
 // Kolejka priorytetowa
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdio.h>
