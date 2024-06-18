@@ -3,7 +3,6 @@
 // Zadanie 5.1
 // Wieza Hanoi
 //
-//  WCY21IX4S0  Miksiewicz Pawel
 //============================================================================
 
 #include <stdio.h>
